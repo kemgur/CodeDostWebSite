@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 //Guzel bir soru
 //Cozunce daha guzel oldu.Remote olarak.  
+//Kemal
 public class AlphabetPattern01 {
 
 	/*
