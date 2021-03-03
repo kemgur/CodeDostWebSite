@@ -3,6 +3,7 @@ package sec01alphabetpatterns;
 import java.util.Scanner;
 
 //Guzel bir soru
+//Cozunce daha guzel oldu.Remote olarak.  
 public class AlphabetPattern01 {
 
 	/*
