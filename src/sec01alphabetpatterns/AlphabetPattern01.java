@@ -2,6 +2,7 @@ package sec01alphabetpatterns;
 
 import java.util.Scanner;
 
+//Guzel bir soru
 public class AlphabetPattern01 {
 
 	/*
