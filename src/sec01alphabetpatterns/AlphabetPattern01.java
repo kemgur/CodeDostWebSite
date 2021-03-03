@@ -5,6 +5,7 @@ import java.util.Scanner;
 //Guzel bir soru
 //Cozunce daha guzel oldu.Remote olarak.  
 //Kemal
+//Cakisma- kemal
 public class AlphabetPattern01 {
 
 	/*
