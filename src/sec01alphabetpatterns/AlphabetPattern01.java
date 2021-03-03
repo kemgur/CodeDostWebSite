@@ -5,11 +5,8 @@ import java.util.Scanner;
 //Guzel bir soru
 //Cozunce daha guzel oldu.Remote olarak.  
 //Kemal
-<<<<<<< HEAD
 //Cakisma- kemal
-=======
-// cakisma- hamza (conflict)
->>>>>>> refs/remotes/origin/main
+
 public class AlphabetPattern01 {
 
 	/*
