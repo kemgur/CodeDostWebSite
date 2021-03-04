@@ -7,7 +7,7 @@ import java.util.Scanner;
 //Kemal
 
 //Cakisma- kemal
-
+//17.50 master branch
 
 public class AlphabetPattern01 {
 
